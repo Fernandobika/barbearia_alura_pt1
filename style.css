@@ -5,8 +5,9 @@ body{
 #banner{
     width: 100%;
 }
-.principal {
-    backgrond:#cccccc;
+
+.principal{
+    background:#cccccc;
     padding: 30px;
 }
 
